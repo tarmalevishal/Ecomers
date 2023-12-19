@@ -1,0 +1,22 @@
+.sec{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    
+}
+button{
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    background:blue;
+    border: none;
+    border-radius: 8px;
+}
+.legend{
+    height: 150px;
+    width: 400px;
+}

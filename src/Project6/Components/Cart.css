@@ -1,0 +1,19 @@
+.cart{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+}
+.table{
+    height: 100px;
+    width: 900px;
+}
+#add,#min{
+    height: 30px;
+    width: 30px;
+}
+#gpay{
+    height: auto;
+}
